@@ -1,0 +1,15 @@
+import webbrowser, time
+url = input("Enter url: ")
+duration = input("Enter How long you want the video to play before another view: ")
+while True:
+    webbrowser.open_new(url)
+    time.sleep(int(duration))
+
+
+
+
+
+
+Copy and paste into Pycharm
+
+Then Run
