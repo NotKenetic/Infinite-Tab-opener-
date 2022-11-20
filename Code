@@ -8,8 +8,14 @@ while True:
 
 
 
+Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows 
 
+Python Download: https://www.python.org/downloads/
+
+Install Python first
+
+Then
 
 Copy and paste the first 6 rows, then paste into Pycharm
 
-Then Run
+Finally, Run
