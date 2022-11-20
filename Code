@@ -1,6 +1,6 @@
 import webbrowser, time
 url = input("Enter url: ")
-duration = input("Enter How long you want the video to play before another view: ")
+duration = input("Enter How long you want to wait untill another tab opens: ")
 while True:
     webbrowser.open_new(url)
     time.sleep(int(duration))
